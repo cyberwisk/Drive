@@ -1,4 +1,4 @@
-#Arduino library para ponte H (tambem funciona com esp8266 e Esp32)
+# Arduino library para ponte H (tambem funciona com esp8266 e Esp32)
 Name=Drive
 Version=1.0.1
 Aurelio Monteiro Avanzi <cyberwisk@gmail.com>
