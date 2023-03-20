@@ -8,13 +8,21 @@ Controle para Robos de esteira de forma simples.
 # Drive
 # Funçoes basicas:
 moveForward(int speed)
+
 moveBackward(int speed)
+
 turnRight(int speed)
+
 turnLeft(int speed)
+
 moveforwardLeft (int speed)
+
 moveforwardRight(int speed)
+
 moveBackwardLeft(int speed)
+
 moveBackwardRight(int speed)
+
 stopMoving(int speed)
 
 Speed: 0-1024
