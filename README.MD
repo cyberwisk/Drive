@@ -5,7 +5,7 @@
     Controle para Robôs de esteira de forma simples
     08/03/2023
     Drive.h
-![L298N](https://raw.githubusercontent.com/cyberwisk/Drive/main/l298n.png)
+<img src="https://raw.githubusercontent.com/cyberwisk/Drive/main/l298n.png" width="200">
 
 # Funções básicas:
 	moveForward(int speed)
